@@ -1,5 +1,5 @@
 'use strict';
-'use stict';
+
 //Habilitando o modo estrito
 
 
@@ -14,7 +14,7 @@
 
 
 let ucs =2;
-let competencias = "html, css, e JavaScript"
+let competencias = "htmls, css, e JavaScript"
 
 console.log(`Eu estou estudando Full stack: dentro tem UC1 mais UC${ucs} e no UC${ucs}
     tem ${competencias}`);
@@ -45,8 +45,68 @@ console.log('gosto "muito" de paçoca!');
 
 let frase = "Estamos estudando JavaScript na escola Senac";
 frase += "Penha, no curso de Desenvolvedor Full-Stack";
+frase +="no ano de "
+let ano = 2025
 
-frase +="no ano de "+ano;
+console.log("JE VAIS VOUS PARLER DE MOI "+frase+" "+ano+"");
+
+
+
+
+console.log("EU SOU ELIOISE");
+
+let p = "elioise";
+p += " PREVOST";
+
+
+console.log("JE SUIS "+ p +" ");
+
+
+let anos = 1994;
+anos += " en haiti, la benjamine";
+
+console.log("JE SUIS NÉE EN "+anos +"");
+
+
+console.log(`JE SUIS NÉE EN ${anos}`);
+
+
+
+
+
+let nom = "ELIOISE"
+let adresse = "CARREFOUR"
+let anno = 30
+anno+= "ans"
+
+console.log("MON NOM C'EST "+ nom +", je suis née a "+adresse+",  j'ai "+anno+". ");
+
+
+console.log(`MON NOM C'EST ${nom}, je suis née a ${adresse},  j'ai ${anno}.`);
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
